@@ -12,6 +12,7 @@
 //TO DO LIST
 //o Look at optimising runtime for larger patterns and higher generation counts
 //o STABLE CONFIGURATIONS: Check if the previous set of living cells is the same as the current and end the program with a STABLE OUTCOME output.
+//o Move GoL functions to separate header file?
 
 
 //Function which takes the cells to be tested TestCells, a cell index j and the current living cells LiveCells and returns whether the selected test cell is in the current living cells
